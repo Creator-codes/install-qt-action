@@ -1,4 +1,4 @@
-name: Test Installing Qt
+name: Test Installing Qt1
 
 on: [push, pull_request]
 
